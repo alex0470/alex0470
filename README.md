@@ -58,7 +58,7 @@ Web • Firebase
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex0470&show_icons=true&theme=transparent)
 
 ---
 
