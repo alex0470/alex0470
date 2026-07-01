@@ -58,7 +58,7 @@ Web • Firebase
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex0470&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alex0470)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
