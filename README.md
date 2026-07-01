@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hola, soy Alexander 👋
 
-<!--
-**alex0470/alex0470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer en crecimiento  
+🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
-Here are some ideas to get you started:
+Me gusta crear aplicaciones útiles, aprender nuevas tecnologías
+y convertir ideas en proyectos funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Actualmente
+
+- 🔭 Desarrollando aplicaciones web y móviles
+- 🌱 Mejorando mis conocimientos en arquitectura de software y backend
+- 🧩 Trabajando con Flutter, Firebase y APIs
+
+---
+
+## 🛠️ Tecnologías
+
+### Lenguajes
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+
+### Desarrollo
+
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+
+---
+
+## 📌 Proyectos destacados
+
+### 📱 Sistema de gestión de reportes
+Aplicación para automatizar la creación y gestión de documentos.
+
+Tecnologías:
+Flutter • Firebase • FastAPI
+
+---
+
+### 💌 Invitame
+Plataforma para crear invitaciones digitales personalizadas.
+
+Tecnologías:
+Web • Firebase
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent)
+
+---
+
+## 📫 Contacto
+
+📧 Email: silvestrealexanderolverarocha@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/olvera-rocha-silvestre-alexander-b672882b4
