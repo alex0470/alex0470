@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alexander%20Olvera&fontSize=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola%20soy%20Alexander&fontSize=50)
 
 💻 Junior Software Developer en crecimiento  
 🎓 Estudiante de Ingeniería en Sistemas Computacionales
