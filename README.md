@@ -24,6 +24,7 @@ y convertir ideas en proyectos funcionales.
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
 
 ### Desarrollo
 
@@ -39,6 +40,23 @@ y convertir ideas en proyectos funcionales.
 ---
 
 ## 📌 Proyectos destacados
+
+### 🌟 [TEPETL](https://github.com/alex0470/tepetl) - Plataforma de Aprendizaje del Náhuatl
+Plataforma interactiva para aprender la lengua náhuatl con retroalimentación personalizada y recomendaciones inteligentes de ejercicios.
+
+**Características:**
+- 🎯 Ejercicios adaptativos según nivel y desempeño
+- 💬 Retroalimentación inmediata con IA
+- 📊 Seguimiento de progreso con estadísticas
+- 🌙 Modo oscuro/claro
+- 📱 Multiplataforma (Android, Web, Windows)
+- ☁️ Sincronización en la nube con Firebase
+
+**Tecnologías:** Flutter • Dart • Firebase • FastAPI • Gemini IA
+
+**Demo:** https://tepetl-a9d78.web.app/
+
+---
 
 ### 📱 Sistema de gestión de reportes
 Aplicación para automatizar la creación y gestión de documentos.
