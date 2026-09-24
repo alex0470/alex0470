@@ -1,10 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola%20soy%20Alexander&fontSize=50)
+Junior Software Developer en crecimiento
+Estudiante de Ingeniería en Sistemas Computacionales
 
-💻 Junior Software Developer en crecimiento  
-🎓 Estudiante de Ingeniería en Sistemas Computacionales
-
-Me gusta crear aplicaciones útiles, aprender nuevas tecnologías
-y convertir ideas en proyectos funcionales.
+Me gusta crear aplicaciones útiles, aprender nuevas tecnologías y convertir ideas en proyectos funcionales.
 
 ---
 
