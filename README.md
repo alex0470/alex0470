@@ -5,15 +5,15 @@ Me gusta crear aplicaciones útiles, aprender nuevas tecnologías y convertir id
 
 ---
 
-## 🚀 Actualmente
+## Actualmente
 
-- 🔭 Desarrollando aplicaciones web y móviles
-- 🌱 Mejorando mis conocimientos en arquitectura de software y backend
-- 🧩 Trabajando con Flutter, Firebase y APIs
+- Desarrollando aplicaciones web y móviles
+- Mejorando mis conocimientos en arquitectura de software y backend
+- Trabajando con Flutter, Firebase y APIs
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Lenguajes
 
@@ -36,18 +36,18 @@ Me gusta crear aplicaciones útiles, aprender nuevas tecnologías y convertir id
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
-### 🌟 [TEPETL](https://github.com/alex0470/tepetl) - Plataforma de Aprendizaje del Náhuatl
+### [TEPETL](https://github.com/alex0470/tepetl) - Plataforma de Aprendizaje del Náhuatl
 Plataforma interactiva para aprender la lengua náhuatl con retroalimentación personalizada y recomendaciones inteligentes de ejercicios.
 
 **Características:**
-- 🎯 Ejercicios adaptativos según nivel y desempeño
-- 💬 Retroalimentación inmediata con IA
-- 📊 Seguimiento de progreso con estadísticas
-- 🌙 Modo oscuro/claro
-- 📱 Multiplataforma (Android, Web, Windows)
-- ☁️ Sincronización en la nube con Firebase
+-  Ejercicios adaptativos según nivel y desempeño
+- Retroalimentación inmediata con IA
+- Seguimiento de progreso con estadísticas
+- Modo oscuro/claro
+- Multiplataforma (Android, Web, Windows)
+- Sincronización en la nube con Firebase
 
 **Tecnologías:** Flutter • Dart • Firebase • FastAPI • Gemini IA
 
@@ -55,7 +55,7 @@ Plataforma interactiva para aprender la lengua náhuatl con retroalimentación p
 
 ---
 
-### 📱 Sistema de gestión de reportes
+### Sistema de gestión de reportes
 Aplicación para automatizar la creación y gestión de documentos.
 
 Tecnologías:
@@ -63,21 +63,21 @@ Flutter • Firebase • FastAPI
 
 ---
 
-### 💌 Invitame
+### Invitame
 Plataforma para crear invitaciones digitales personalizadas.
 
 Tecnologías:
 Web • Firebase
-
+https://invittame.com.mx
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alex0470)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 📧 Email: silvestrealexanderolverarocha@gmail.com
 
